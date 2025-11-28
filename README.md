@@ -10,6 +10,7 @@ https://youtu.be/sUa4ssY2HMk
 
 ## Entrega 3 — Participación en Competencia de Kaggle
 #Video entrega 3: https://youtu.be/A-njCsJb4zg
+
 Página de la competencia en Kaggle:
 https://www.kaggle.com/competitions/udea-ai-4-eng-20252-pruebas-saber-pro-colombia
 
